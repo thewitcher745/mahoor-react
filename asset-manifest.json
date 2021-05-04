@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/mahoor-react/static/css/main.96044916.chunk.css",
+    "main.js": "/mahoor-react/static/js/main.fe6f29c6.chunk.js",
+    "main.js.map": "/mahoor-react/static/js/main.fe6f29c6.chunk.js.map",
+    "runtime-main.js": "/mahoor-react/static/js/runtime-main.4d5ca96d.js",
+    "runtime-main.js.map": "/mahoor-react/static/js/runtime-main.4d5ca96d.js.map",
+    "static/css/2.da7bab93.chunk.css": "/mahoor-react/static/css/2.da7bab93.chunk.css",
+    "static/js/2.96a9d50e.chunk.js": "/mahoor-react/static/js/2.96a9d50e.chunk.js",
+    "static/js/2.96a9d50e.chunk.js.map": "/mahoor-react/static/js/2.96a9d50e.chunk.js.map",
+    "index.html": "/mahoor-react/index.html",
+    "static/css/2.da7bab93.chunk.css.map": "/mahoor-react/static/css/2.da7bab93.chunk.css.map",
+    "static/css/main.96044916.chunk.css.map": "/mahoor-react/static/css/main.96044916.chunk.css.map",
+    "static/js/2.96a9d50e.chunk.js.LICENSE.txt": "/mahoor-react/static/js/2.96a9d50e.chunk.js.LICENSE.txt",
+    "static/media/bg-small.jpg": "/mahoor-react/static/media/bg-small.54da5cb4.jpg",
+    "static/media/dried-apples.jpg": "/mahoor-react/static/media/dried-apples.e6ba2603.jpg",
+    "static/media/dried-basil.jpg": "/mahoor-react/static/media/dried-basil.dffe209d.jpg",
+    "static/media/dried-tomatos.jpg": "/mahoor-react/static/media/dried-tomatos.4fffca79.jpg",
+    "static/media/tomato-powder.jpg": "/mahoor-react/static/media/tomato-powder.83bf654e.jpg",
+    "static/media/wheat-germ-powder.png": "/mahoor-react/static/media/wheat-germ-powder.cf85aa24.png",
+    "static/media/wheat-germ.jpg": "/mahoor-react/static/media/wheat-germ.7b6fbbd9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d5ca96d.js",
+    "static/css/2.da7bab93.chunk.css",
+    "static/js/2.96a9d50e.chunk.js",
+    "static/css/main.96044916.chunk.css",
+    "static/js/main.fe6f29c6.chunk.js"
+  ]
+}
